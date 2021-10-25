@@ -1,0 +1,6 @@
+{
+    "testFiles": "features/**/*.feature",
+    "baseUrl": "https://www.amazon.fr",
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": []
+}
