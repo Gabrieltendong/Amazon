@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open --browser chrome",
-    "cypress:run": "cypress run --browser chrome"
+    "cypress:run": "cypress run --browser chrome --env allure=true"
   },
   "keywords": [],
   "author": "",

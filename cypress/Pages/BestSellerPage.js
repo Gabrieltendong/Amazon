@@ -6,8 +6,8 @@ const MENU_OFFER = '[href="/b/?ie=UTF8&node=1325595031&ref_=sv_x_5"] > .nav-a-co
 class BestSellerPage extends Page{
 
     static clickOnProductPhone(){
-        cy.get(MENU_OFFER).trigger('mouseover')
-        this.clickOn(PRODUCT_PHONE)
+        cy.get(MENU_OFFER).trigger('mouseover');
+        this.clickOn(PRODUCT_PHONE);
     }
 
 }
