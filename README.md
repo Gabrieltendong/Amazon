@@ -10,7 +10,7 @@ $ yarn install
 $ npm install
 ```
 
-## Running the app
+## Running Test
 
 ```bash
 # Open in brower
